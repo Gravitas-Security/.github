@@ -14,9 +14,9 @@ Welcome to the official GitHub profile of **Gravitas Security**! As a distinguis
 
 ## :books: Repository Contents
 
-- **Cloud Security Best Practices**: Expert guidelines and strategies for securing your cloud assets.
-- **IaC Templates**: Infrastructure as Code samples to kickstart your cloud deployments with security ingrained.
-- **Configurations**: Setups and configurations that prioritize safety without compromising on functionality.
+- 🌩️**AWS IaC Modules**: Infrastructure as Code modules to kickstart your cloud deployments with security ingrained.
+- 🪐**Cloudflare IaC Modules**: Infrastructure as Code modules to kickstart your Cloudflare deployments, with security best practices built in.
+- 🤖**DevSecOps pileines**: Prebuilt pipelines that can be used with Github actions to deploy terraform. Includes integrated scanning with Checkov
 
 ## :small_orange_diamond: Why Small Businesses?
 
@@ -32,9 +32,9 @@ Your insights can help make the digital world safer. If you have suggestions or 
 
 ## :link: Quick Links
 
-- [Cloud Security Best Practices](https://github.com/Gravitas-Security/cloud-security-best-practices)
-- [IaC Templates](https://github.com/Gravitas-Security/IaC-templates)
-- [Configurations](https://github.com/Gravitas-Security/configurations)
+- [AWS IaC Modules](https://github.com/Gravitas-Security/aws-modules)
+- [Cloudflare IaC Modules](https://github.com/Gravitas-Security/cloudflare-modules)
+- [DevSecOps Pipelines](https://github.com/Gravitas-Security/devsecops-pipelines)
 
 ## :mailbox_with_mail: Contact Us
 
