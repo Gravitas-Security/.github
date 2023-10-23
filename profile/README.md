@@ -16,7 +16,7 @@ Welcome to the official GitHub profile of **Gravitas Security**! As a distinguis
 
 - 🌩️**AWS IaC Modules**: Infrastructure as Code modules to kickstart your cloud deployments with security ingrained.
 - 🪐**Cloudflare IaC Modules**: Infrastructure as Code modules to kickstart your Cloudflare deployments, with security best practices built in.
-- 🤖**DevSecOps pileines**: Prebuilt pipelines that can be used with Github actions to deploy terraform. Includes integrated scanning with Checkov
+- 🤖**DevSecOps pipelines**: Prebuilt pipelines that can be used with Github actions to deploy terraform. Includes integrated scanning with Checkov
 
 ## :small_orange_diamond: Why Small Businesses?
 
